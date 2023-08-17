@@ -1,6 +1,7 @@
 # Proyecto de Curso: Mi Aplicación con React.js
 
 ¡Bienvenidos al repositorio de mi proyecto creado durante el curso de React.js! En este proyecto, he desarrollado una aplicación web utilizando la biblioteca React.js, aprendiendo y aplicando los conceptos clave enseñados a lo largo del curso. A continuación, encontrarás una breve descripción de la aplicación, sus características y las instrucciones para ejecutarla localmente.
+     https://malejandrar.github.io/curso-react-intro/
 
 # Descripción de la Aplicación
 
