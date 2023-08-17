@@ -1,75 +1,42 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Proyecto de Curso: Mi Aplicación con React.js
 
-¡Hola, Platzinauta!
+¡Bienvenidos al repositorio de mi proyecto creado durante el curso de React.js! En este proyecto, he desarrollado una aplicación web utilizando la biblioteca React.js, aprendiendo y aplicando los conceptos clave enseñados a lo largo del curso. A continuación, encontrarás una breve descripción de la aplicación, sus características y las instrucciones para ejecutarla localmente.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+# Descripción de la Aplicación
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+Mi aplicación es un gestor de tareas simple que permite a los usuarios agregar, eliminar y marcar como completadas diversas tareas. La interfaz de usuario es intuitiva y receptiva, lo que brinda una experiencia fluida para los usuarios. Además de practicar los fundamentos de React.js, también he integrado estilos básicos utilizando CSS para mejorar la apariencia general de la aplicación.
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+# Características
 
-## Getting Started with Create React App
+* Agregar Tareas: Los usuarios pueden agregar nuevas tareas con un título y una descripción opcional.
+* Eliminar Tareas: Las tareas no deseadas se pueden eliminar con un simple clic.
+* Marcar como Completadas: Los usuarios pueden marcar las tareas como completadas para mantener un registro de su progreso.
+* Diseño Responsivo: La interfaz se adapta de manera elegante a diferentes tamaños de pantalla, desde dispositivos móviles hasta computadoras de escritorio.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Instrucciones de Uso
+Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
-## Available Scripts
+* Clona el Repositorio: Clona este repositorio en tu computadora utilizando el siguiente comando:
+ git clone https://github.com/MalejandraR/curso-react-intro
 
-In the project directory, you can run:
+* Accede al Directorio: Navega al directorio del proyecto:
+ cd curso-react-intro
 
-### `npm start`
+* Instala las Dependencias: Utiliza npm (o yarn) para instalar las dependencias:
+ npm install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Inicia la Aplicación: Una vez que se completen las instalaciones, inicia la aplicación:
+ npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Visualiza en el Navegador: Abre tu navegador web y ve a http://localhost:3000 para ver y explorar la aplicación.
 
-### `npm run build`
+# Contribuciones
+¡Las contribuciones son bienvenidas! Si encuentras errores, deseas agregar nuevas características o mejorar algo, siéntete libre de crear un pull request. Asegúrate de seguir las directrices de contribución.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Contacto
+Si tienes preguntas o comentarios sobre este proyecto, no dudes en ponerte en contacto conmigo por correo electrónico o a través de mi perfil de GitHub.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+¡Espero que disfrutes explorando mi aplicación desarrollada con React.js! Gracias por visitar este repositorio.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+María Alejandra Ramirez G.
+https://github.com/MalejandraR
